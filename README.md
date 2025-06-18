@@ -1,6 +1,6 @@
 # Proyecto Cupones de Descuento - Flask
 
-[![Pruebas de Regresión - Cupones](https://github.com/tuusuario/cupones_descuento/actions/workflows/python-app.yml/badge.svg)](https://github.com/tuusuario/cupones_descuento/actions/workflows/python-app.yml)
+[![Pruebas de Regresión - Cupones](https://github.com/Jplazadelosreyes/cupones_descuento/actions/workflows/test-regresion.yml/badge.svg)](https://github.com/Jplazadelosreyes/cupones_descuento/actions/workflows/test-regresion.yml)
 
 ## 📝 Descripción del Proyecto
 
